@@ -1,0 +1,6 @@
+Pwd- Print working directory
+whoami- Will print the current logged in user`s username
+cd- , cd. , cd.. - Change directory
+ls - list all the files and directories
+mkdir - make directory
+
